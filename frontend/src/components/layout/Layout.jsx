@@ -23,7 +23,7 @@ export default function Layout({ children }) {
                 <Leaf className="w-6 h-6 text-white" />
               </div>
               <div>
-                <h1 className="text-2xl font-bold text-gray-900">Math Domain Error</h1>
+                <h1 className="text-2xl font-bold text-gray-900">FarmEdge AI</h1>
                 <p className="text-sm text-gray-500">Field: North Field</p>
               </div>
             </div>
