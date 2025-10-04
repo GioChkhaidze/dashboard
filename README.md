@@ -2,6 +2,10 @@
 
 A modern, AI-powered agricultural dashboard for visualizing pest detection and canopy coverage data from drone imagery.
 
+## Watch Demo
+
+[![Watch Demo Video](https://img.shields.io/badge/▶️_Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/u2ebBMH1WV4)
+
 ## 🏗️ Project Structure
 
 ```
